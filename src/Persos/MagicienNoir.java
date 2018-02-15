@@ -1,3 +1,6 @@
+package Persos;
+import Sorts.*;
+
 public  class MagicienNoir extends Magicien {
     public MagicienNoir() {
         ptMagie=50;

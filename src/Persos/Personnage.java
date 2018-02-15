@@ -1,3 +1,5 @@
+package Persos;
+
 public abstract class Personnage {
 
     int ptVie;

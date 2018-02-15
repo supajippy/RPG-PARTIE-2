@@ -1,3 +1,8 @@
+package Sorts;
+
+import Persos.Magicien;
+import Persos.Personnage;
+
 public class MortSubite extends Sorts {
 
     public MortSubite() {

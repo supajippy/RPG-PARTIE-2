@@ -1,6 +1,8 @@
+package Persos;
+
 public abstract class Guerrier extends Personnage {
 
-    int ptForce;
+    protected int ptForce;
 
     public void attack(Personnage perso){
 

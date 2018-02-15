@@ -1,7 +1,12 @@
+package Sorts;
+
+import Persos.Magicien;
+import Persos.Personnage;
+
 public class BouledeFeu extends Sorts {
     public BouledeFeu() {
         cout = 5;
-        nom="BouledeFeu";
+        nom="Sorts.BouledeFeu";
     }
 
     public int LancerSort(Personnage perso, Magicien persoQuiAtk) {
