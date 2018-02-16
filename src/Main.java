@@ -47,8 +47,8 @@ public class Main {
                 "3.Sceptre\n4.Masamune");
         int choixarme =sc.nextInt();
         switch (choixarme){
-            case 1 :
-            ((Barb) perso).setArme(new Masse());
+            case 1 :Contondant masse = new Masse();
+            ((Barb) perso).setArme(masse);
 
             case 2 : Contondant epeeLourde=new EpeeLourde();
                     ((Barb) perso).setArme(epeeLourde);
