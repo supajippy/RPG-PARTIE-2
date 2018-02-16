@@ -6,7 +6,7 @@ import Persos.Personnage;
 public class BouledeFeu extends Sorts {
     public BouledeFeu() {
         cout = 5;
-        nom="Sorts.BouledeFeu";
+        nom="BouledeFeu";
     }
 
     public int LancerSort(Personnage perso, Magicien persoQuiAtk) {

@@ -7,7 +7,7 @@ public class PicdeGlace extends Sorts{
 
     public PicdeGlace() {
         cout=5;
-        nom="Sorts.PicdeGlace";
+        nom="PicdeGlace";
     }
 
     public int LancerSort(Personnage perso, Magicien persoQuiAtk) {

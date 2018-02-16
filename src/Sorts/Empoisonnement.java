@@ -10,7 +10,7 @@ public class Empoisonnement extends Sorts {
 
     public Empoisonnement() {
         cout=2;
-        nom="Sorts.Empoisonnement";
+        nom="Empoisonnement";
     }
     public int LancerSort(Personnage perso, Magicien persoQuiAtk){
 

@@ -85,7 +85,7 @@ public class Main {
         else if(perso instanceof Magicien)
         {
             System.out.println("Veuillez choisir une arme pour votre Magicien.\n1.Baguette\n2.Epee Magique\n3.Sceptre" +
-                    "\n4.Sceptre ");
+                    "\n4.Masamune ");
             int choixarme = sc.nextInt();
             switch (choixarme){
                 case 1 :Magique baguette= new Baguette();
